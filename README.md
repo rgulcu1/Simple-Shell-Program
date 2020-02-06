@@ -1,6 +1,6 @@
 # Simple Shell Program
 
-This program written by C. This shell support standart shell commands and some built-in commands.
+This program developed in C. This shell support standart shell commands and some built-in commands.
 
 ## Built-in Commands
 
